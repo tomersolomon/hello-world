@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Hello World. This is a test to learn how Git Hub works.
